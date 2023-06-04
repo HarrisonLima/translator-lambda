@@ -1,3 +1,3 @@
 # Project: translator-lambda
 
-# Implementação da biblioteca googletrans
+Implementação da biblioteca googletrans
